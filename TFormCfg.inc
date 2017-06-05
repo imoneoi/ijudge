@@ -1,0 +1,1 @@
+TFormCfg = class(TObj)

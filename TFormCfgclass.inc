@@ -1,0 +1,1 @@
+TFormCfg = class; PFormCfg = TFormCfg;

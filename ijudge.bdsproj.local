@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/25 12:01:02.309.pas,E:\Wangguan\iJudge-rel\Unit1.pas=E:\Wangguan\iJudge-rel\view.pas</Transaction>
+    <Transaction>2016/09/25 12:01:02.309.dfm,E:\Wangguan\iJudge-rel\Unit1.dfm=E:\Wangguan\iJudge-rel\view.dfm</Transaction>
+    <Transaction>2016/09/25 12:02:04.041.pas,E:\Wangguan\iJudge-rel\view.pas=</Transaction>
+    <Transaction>2016/09/25 12:02:04.041.dfm,E:\Wangguan\iJudge-rel\view.dfm=</Transaction>
+    <Transaction>2016/09/25 12:03:38.690.pas,E:\Wangguan\iJudge-rel\Unit2.pas=E:\Wangguan\iJudge-rel\view.pas</Transaction>
+    <Transaction>2016/09/25 12:03:38.690.dfm,E:\Wangguan\iJudge-rel\Unit2.dfm=E:\Wangguan\iJudge-rel\view.dfm</Transaction>
+    <Transaction>2016/10/01 11:16:07.278.pas,E:\Wangguan\iJudge-rel\Unit1.pas=E:\Wangguan\iJudge-rel\setting.pas</Transaction>
+    <Transaction>2016/10/01 11:16:07.278.dfm,E:\Wangguan\iJudge-rel\Unit1.dfm=E:\Wangguan\iJudge-rel\setting.dfm</Transaction>
+    <Transaction>2016/10/01 11:31:11.543.pas,E:\Wangguan\iJudge-rel\Unit1.pas=E:\Wangguan\iJudge-rel\config.pas</Transaction>
+    <Transaction>2016/10/01 11:31:11.543.dfm,E:\Wangguan\iJudge-rel\Unit1.dfm=E:\Wangguan\iJudge-rel\config.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
